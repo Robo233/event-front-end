@@ -1,3 +1,5 @@
+A web app, in which the user can create different events.
+
 ![](Screenshots/1.png)
 ![](Screenshots/2.png)
 ![](Screenshots/3.png)
