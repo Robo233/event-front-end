@@ -1,10 +1,10 @@
-![](Screenshots/1.jpg)
-![](Screenshots/2.jpg)
-![](Screenshots/3.jpg)
-![](Screenshots/4.jpg)
-![](Screenshots/5.jpg)
-![](Screenshots/6.jpg)
-![](Screenshots/7.jpg)
+![](Screenshots/1.png)
+![](Screenshots/2.png)
+![](Screenshots/3.png)
+![](Screenshots/4.png)
+![](Screenshots/5.png)
+![](Screenshots/6.png)
+![](Screenshots/7.png)
 
 ## Project setup
 ```
